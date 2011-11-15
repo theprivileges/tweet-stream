@@ -1,0 +1,17 @@
+{
+  "author": "Luiz Lopes (wickeddeveloper.com)",
+  "name": "tweet-stream",
+  "description": "A simple twitter stream example using node.js and coffeescript",
+  "version": "0.0.5",
+  "homepage": "https://github.com/theprivileges/tweet-stream",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/theprivileges/tweet-stream.git"
+  },
+  "main": "tweet",
+  "engines": {
+    "node": "~0.4.11"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
